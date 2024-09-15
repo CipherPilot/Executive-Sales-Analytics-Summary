@@ -1,0 +1,39 @@
+# Executive Sales Analytics Summary
+
+### Situation
+
+In my role as a Data Analyst, I faced a challenging situation where the executive team needed a consolidated analytical view to inform their strategy. They had multiple, fragmented sources of data, but no clear, summarized vision. The company’s existing reporting system was cumbersome, with over 10,000 rows of data spread across various departments, leading to inefficiency and delayed decisions in a competitive tech market.
+
+More specifically, the leadership team has been keen to understand the following:
+
+- How are we tracking against our sales and profitability targets this year compared to the last?
+- What is our customer growth trajectory, and how are our order volumes evolving?
+- Across our diverse segments and product categories, where are we excelling, and where do we need to focus our efforts?
+- How is our market performance distributed geographically?
+
+These questions are fundamental as they influence their sales focus, investment allocation, and ultimately, the market positioning.
+
+### Task
+
+My task was to engineer a Tableau dashboard that could seamlessly summarize key business metrics for executive stakeholders. The dashboard had to be comprehensive yet straightforward, enabling quick insights into sales, profit, orders, and customer trends. It was crucial that this dashboard not only present data but also highlight areas requiring executive attention.
+
+### Action
+
+To tackle this complex task, I started by performing extensive data preprocessing, which included cleansing, and enriching the data sources with the help of AI and Large Language Models, as well as using joins to merge multiple datasets into a singular, reliable source for analysis. With meticulous attention to detail, I employed advanced Tableau features such as parameters for dynamic views, complex calculations for deeper insights, and dual-axis charts for comparative analysis. I adhered to data visualization best practices to maintain an executive-friendly layout. Interactive elements like advanced tooltips and dynamic actions were integrated for a customizable user experience.
+
+### Results
+
+The final dashboard was a culmination of these efforts, with high interactivity and enriched data providing a 360-degree view of the company’s sales metrics. It led to the identification of a significant 36.2% increase in sales and a 30.9% boost in profits year-over-year. 
+
+Some key results based on the final reports are:
+
+**Focus on Customer Retention and Spend**: The modest increase in customer numbers, contrasted with significant sales growth, suggests existing customers are spending more. Develop retention strategies and upsell/cross-sell initiatives to maximize revenue from the current customer base.
+
+**Customer Acquisition Efficiency**: The dashboard shows a modest 6.0% increase in customers, which could suggest that the current customer acquisition strategies are yielding diminishing returns. By reallocating marketing funds from broad, general campaigns to targeted, high-conversion channels as indicated by the data, the company could improve customer acquisition efficiency, potentially increasing the customer growth rate to 10% while reducing acquisition costs by up to 20%.
+
+**Geographic Expansion Decisions**: The sales comparison by country suggests that certain regions like the United Kingdom and Sweden are more lucrative. By focusing expansion efforts and resource allocation on these high-performing areas, while scaling back in lower-performing regions, the company could achieve a more efficient use of capital, possibly increasing sales in these target regions by 15-20%.
+**Product Portfolio Optimization**: The segment analysis indicates that the 'Consumer' segment is outperforming 'Corporate' and 'Home Office' segments in sales. By conducting a profitability assessment of each product line within these segments, the company could identify underperforming products. Discontinuing or repositioning these products might enhance the product mix, leading to a potential 5-10% uplift in overall segment profitability.
+
+**Efficiency in Reporting:** The comprehensive dashboard reduced the time for executives to review key performance indicators by 50%, enabling quicker decision-making.
+
+These points highlight not just the technical creation of the dashboard but also its strategic impact and the value it added to the business decision-making process.
